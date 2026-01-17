@@ -1,20 +1,20 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="475" alt="Glassmorphism Pro Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# 💎 Glassmorphism Pro Generator
 
-This contains everything you need to run your app locally.
+Uno strumento professionale per designer e sviluppatori che permette di generare effetti di trasparenza moderna ("frosted glass") in tempo reale, esportando codice CSS pronto per la produzione.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1_vzIwYYEz_aVZsDVA2doZXH0_hpcgWtS
+## ✨ Caratteristiche
+* **Anteprima Dinamica**: Modifica sfocatura, saturazione e trasparenza con feedback immediato.
+* **Esportazione Codice**: Genera automaticamente snippet CSS ottimizzati, inclusi i prefissi per la massima compatibilità browser.
+* [cite_start]**Architettura Robusta**: Sviluppato interamente in TypeScript per garantire tipizzazione sicura e manutenibilità[cite: 1].
+* **UI Moderna**: Interfaccia pulita realizzata con Tailwind CSS e font Inter.
 
-## Run Locally
+## 🛠️ Tech Stack
+* **Core**: React 19 & TypeScript
+* **Styling**: Tailwind CSS
+* **Build Tool**: Vite
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Sviluppato da Ilenia Unida - 2026
